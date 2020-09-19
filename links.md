@@ -18,5 +18,5 @@ in the Top 500 list.
 
 
 # Data center locations
-Have you ever wondered physically where the cloud is. This site is great for figuring out where the hardware is and what energy mix 
+Have you ever wondered physically where the cloud is. This site https://www.datacenters.com/locations is great for figuring out where the hardware is and what energy mix 
 it is using. 
