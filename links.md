@@ -26,3 +26,10 @@ Here is a site https://mlco2.github.io/impact/#home where you can calculate a Ma
 
 # What about data center energy efficiency
 In some data centers 50% of the energy used is going toward keeping computers cool, in others it is less than 15%. This is called Power Usage Efficiency (PUE) and it can vary between sites. This is a fun site https://www.nrel.gov/computational-science/measuring-efficiency-pue.html with a dashboard that talks about PUE at a datacenter in Colarado, US. More information on PUE is linked through here https://en.wikipedia.org/wiki/Power_usage_effectiveness .
+
+# What about time of day or day of week
+At some times on some days you may be more likely to cause a CO2 emiting gas turbine to come online https://www.sciencedirect.com/science/article/pii/S2214629616302985?via%3Dihub . What are good ways to convey that. 
+
+# What about time of year and weather
+Data centers typically need more cooling energy when it is hot and humid. Could we encourage everyone to use data centers
+in Iceland https://www.ibm.com/blogs/nordic-msp/iceland-data-centers/. 
