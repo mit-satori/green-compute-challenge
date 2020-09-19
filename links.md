@@ -20,3 +20,6 @@ in the Top 500 list.
 # Data center locations
 Have you ever wondered physically where the cloud is. This site https://www.datacenters.com/locations is great for figuring out where the hardware is and what energy mix 
 it is using. 
+
+# Prior art
+Here is a site https://mlco2.github.io/impact/#home where you can calculate a Machine Learning CO2 estimate. Its kind of boring, but it does have some useful information. 
