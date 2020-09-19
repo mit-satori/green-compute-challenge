@@ -50,3 +50,8 @@ Yes this site https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator
 # Algorithms and hardware also matter
 Here is a paper http://www.netlib.org/utk/people/JackDongarra/PAPERS/haidar_fp16_sc18.pdf where they used BFloat16 arithmetic to save energy.
 The energy use of a floating point computation goes as the square ot the number of mantissa bits ( https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.5235&rep=rep1&type=pdf ). 
+
+# Measuring power on a computer
+Most computers have base board management controller (BMC) that can be queried https://en.wikipedia.org/wiki/OpenBMC .
+Satori uses something called Witherspoon - that is based on https://github.com/openbmc/openbmc .
+For metering power to racks Satori has ```Measurelogic DTS310 Revenue Grade Meters``` .
