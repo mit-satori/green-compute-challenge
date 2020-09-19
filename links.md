@@ -71,4 +71,4 @@ where to end is inevitably a little bit of a judgement.
 The Top 500 computation (Linpack) has a certain floating point operationcount that can be understood from the Top 500 spreadsheet. The 
 count is fairly strongly linked with energy use. This article 
 https://iq.opengenus.org/floating-point-operations-per-second-flops-of-machine-learning-models/ gives a sense of a typical 
-machine learning code. 
+machine learning code. This Wikipedia article describes performane per watt https://en.wikipedia.org/wiki/Performance_per_watt .
