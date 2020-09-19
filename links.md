@@ -58,3 +58,7 @@ The energy use of a floating point computation goes as the square ot the number 
 Most computers have base board management controller (BMC) that can be queried https://en.wikipedia.org/wiki/OpenBMC .
 Satori uses something called Witherspoon - that is based on https://github.com/openbmc/openbmc .
 For metering power to racks Satori has ```Measurelogic DTS310 Revenue Grade Meters``` ( https://www.measurlogic.com/wp-content/uploads/2017/01/DTS-310-5.pdf ).
+
+# What is a carbon offset
+This link explains a bit about carbon offsets https://www.terrapass.com/climate-change/carbon-offsets-explained . It lets you buy some too if you
+want to offset your CO2 emissions!
