@@ -4,7 +4,12 @@
 Every 6 months some lists 
 https://www.top500.org/lists/top500/, https://www.top500.org/lists/green500/ are published of the fastest computers in the world. 
 These lists include information on where the computers are, how fast they ran a benchmark calculation and how much power
-they used when running the benchmakr.
+they used when running the benchmark.
+
+# Exploring some green algorithm and energy ideas
+https://news.mit.edu/2020/brainstorming-energy-saving-hacks-satori-mit-supercomputer-0211
+https://news.mit.edu/2020/shrinking-deep-learning-carbon-footprint-0807
+https://www.youtube.com/watch?v=Vrc1H4xSH7o&feature=youtu.be
 
 # Energy source generation mix
 Depending on a computers location it may take energy from more or less CO2 emiting generators. 
