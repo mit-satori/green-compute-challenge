@@ -47,6 +47,9 @@ What about a tree https://www.unm.edu/~jbrink/365/Documents/Calculating_tree_car
 # Is there a useful calculator to help me
 Yes this site https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator has useful formulae. 
 
+# How do I convert between Kg of gasoline and Kg CO2. 
+Molecular weights of the representative octane combustion are C8H18 114, O2 32, CO2 44, H2O 18; therefore 1 kg of fuel reacts with 3.51 kg of oxygen (from the atmosphere) to produce 3.09 kg of carbon dioxide and 1.42 kg of water ( see -  https://en.wikipedia.org/wiki/Gasoline ). 
+
 # Algorithms and hardware also matter
 Here is a paper http://www.netlib.org/utk/people/JackDongarra/PAPERS/haidar_fp16_sc18.pdf where they used BFloat16 arithmetic to save energy.
 The energy use of a floating point computation goes as the square ot the number of mantissa bits ( https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.5235&rep=rep1&type=pdf ). 
