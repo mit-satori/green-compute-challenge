@@ -33,3 +33,10 @@ At some times on some days you may be more likely to cause a CO2 emiting gas tur
 # What about time of year and weather
 Data centers typically need more cooling energy when it is hot and humid. Could we encourage everyone to use data centers
 in Iceland https://www.ibm.com/blogs/nordic-msp/iceland-data-centers/. 
+
+
+# How should we show CO2 emissions.
+What does 150 tons of coal look like - https://www.agefotostock.com/age/en/Stock-Images/Rights-Managed/X2J-1279992. How much CO2 is that ( 1 x C14 + 2 x O8 ).
+What about a tree https://www.unm.edu/~jbrink/365/Documents/Calculating_tree_carbon.pdf , how many trees is 1MT of CO2? 
+
+# 
