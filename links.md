@@ -8,6 +8,12 @@ they used when running the benchmakr.
 
 # Energy source generation mix
 Depending on a computers location it may take energy from more or less CO2 emiting generators. 
-This page show how energy source vary state by state in the US https://www.eia.gov/electricity/data/state/ .
+This page show how energy source vary state by state in the US https://www.eia.gov/electricity/data/state/.
+
+# Energy mix of specific data centers
+For some facilities you can find more detailed information on their local energy source CO2 emissions. For example, this
+page https://www.hged.com/community-environment/green%20initiative/our-energy-mix.aspx shows the enrgy mix for these
+facilities https://www.mghpcc.org, https://www.ll.mit.edu/r-d/cyber-security-and-information-sciences/lincoln-laboratory-supercomputing-center
+in the Top 500 list.
 
 
