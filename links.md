@@ -17,3 +17,6 @@ facilities https://www.mghpcc.org, https://www.ll.mit.edu/r-d/cyber-security-and
 in the Top 500 list.
 
 
+# Data center locations
+Have you ever wondered physically where the cloud is. This site is great for figuring out where the hardware is and what energy mix 
+it is using. 
