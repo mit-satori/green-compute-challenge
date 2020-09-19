@@ -86,6 +86,8 @@ HPL.out      output file name (if any)
 ```
 
 Power information
+
+- in power measurements below (line beginning Power Comments	Samples of average power every 180 ) the fields are "date time","timestamp","power" where power is in Watts. So typical power for this benchmark was 106KJ/s.  
 ```
 Software
 
