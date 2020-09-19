@@ -25,4 +25,4 @@ it is using.
 Here is a site https://mlco2.github.io/impact/#home where you can calculate a Machine Learning CO2 estimate. Its kind of boring, but it does have some useful information. 
 
 # What about data center energy efficiency
-In some data centers 50% of the energy used is going toward keeping computers cool, in others it is less than 15%. This is called Power Usage Efficiency (PUE) and it can vary between sites. This is a fun site https://www.nrel.gov/computational-science/measuring-efficiency-pue.html with a dashboard that talks about PUE at a datacenter in Colarado, US.
+In some data centers 50% of the energy used is going toward keeping computers cool, in others it is less than 15%. This is called Power Usage Efficiency (PUE) and it can vary between sites. This is a fun site https://www.nrel.gov/computational-science/measuring-efficiency-pue.html with a dashboard that talks about PUE at a datacenter in Colarado, US. More information on PUE is linked through here https://en.wikipedia.org/wiki/Power_usage_effectiveness .
