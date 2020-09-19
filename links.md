@@ -54,4 +54,4 @@ The energy use of a floating point computation goes as the square ot the number 
 # Measuring power on a computer
 Most computers have base board management controller (BMC) that can be queried https://en.wikipedia.org/wiki/OpenBMC .
 Satori uses something called Witherspoon - that is based on https://github.com/openbmc/openbmc .
-For metering power to racks Satori has ```Measurelogic DTS310 Revenue Grade Meters``` .
+For metering power to racks Satori has ```Measurelogic DTS310 Revenue Grade Meters``` ( https://www.measurlogic.com/wp-content/uploads/2017/01/DTS-310-5.pdf ).
