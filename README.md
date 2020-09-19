@@ -12,3 +12,6 @@ The HackMIT  MIT-IBM Green Compute Challenge is looking for ways  to lower the c
 This challenge will give $500 to the project that helps me energy and or carbon awareness easier... and more fun..  to calculate. The winning project will show a way for anyone to calculate ... and hopefully reduce ... the carbon footprint of his/her computation. etc. We have lots of ideas and input data on the energy efficiency of various computer platforms, the energy mix of data centers by geography, etc, and would love to help you formulate your solution. 
 
 Come help us change the world and make green high performance computing a reality  
+
+
+How can we make it fun, create some interesting interactive competition between big compute users like different universities. How Green is MIT compared to Stanford, or CMU? 
