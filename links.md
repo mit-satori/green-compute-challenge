@@ -14,7 +14,7 @@ This page show how energy source vary state by state in the US https://www.eia.g
 For some facilities you can find more detailed information on their local energy source CO2 emissions. For example, this
 page https://www.hged.com/community-environment/green%20initiative/our-energy-mix.aspx shows the enrgy mix for these
 facilities https://www.mghpcc.org, https://www.ll.mit.edu/r-d/cyber-security-and-information-sciences/lincoln-laboratory-supercomputing-center
-in the Top 500 list.
+in the Top 500 list. A sense of the global mix of energy sources can be read from here, https://www.carbonbrief.org/mapped-worlds-coal-power-plants. 
 
 
 # Data center locations
