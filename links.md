@@ -41,7 +41,7 @@ in Iceland https://www.ibm.com/blogs/nordic-msp/iceland-data-centers/.
 
 
 # How should we show CO2 emissions.
-What does 150 tons of coal look like - https://www.agefotostock.com/age/en/Stock-Images/Rights-Managed/X2J-1279992. How much CO2 is that ( 1 x C14 + 2 x O8 ).
+What does 150 tons of coal look like - https://www.agefotostock.com/age/en/Stock-Images/Rights-Managed/X2J-1279992. How much CO2 is that ( 1 x C12 + 2 x O8 ).
 What about a tree https://www.unm.edu/~jbrink/365/Documents/Calculating_tree_carbon.pdf , how many trees is 1MT of CO2? 
 
 # Is there a useful calculator to help me
