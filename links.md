@@ -62,3 +62,7 @@ For metering power to racks Satori has ```Measurelogic DTS310 Revenue Grade Mete
 # What is a carbon offset
 This link explains a bit about carbon offsets https://www.terrapass.com/climate-change/carbon-offsets-explained . It lets you buy some too if you
 want to offset your CO2 emissions!
+
+# How should I think about overall greenhouse gas emissions
+Good question! This site https://ghgprotocol.org has some ideas on approaches that have been used to try and think about end-to-end emissions. Where to start and 
+where to end is inevitably a little bit of a judgement. 
