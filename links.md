@@ -66,3 +66,9 @@ want to offset your CO2 emissions!
 # How should I think about overall greenhouse gas emissions
 Good question! This site https://ghgprotocol.org has some ideas on approaches that have been used to try and think about end-to-end emissions. Where to start and 
 where to end is inevitably a little bit of a judgement. 
+
+# How many floating point operations does a typical computation use
+The Top 500 computation (Linpack) has a certain floating point operationcount that can be understood from the Top 500 spreadsheet. The 
+count is fairly strongly linked with energy use. This article 
+https://iq.opengenus.org/floating-point-operations-per-second-flops-of-machine-learning-models/ gives a sense of a typical 
+machine learning code. 
